@@ -40,7 +40,7 @@ function AddUsers() {
                 <h3>Contact Added Successfully!</h3>
                 
               
-                <Link href="/" className="add_contact_button m-1 mt-3 text-light btn btn-dark ">See Contacts List</Link>
+                <Link href="/contacts" className="add_contact_button m-1 mt-3 text-light btn btn-dark ">See Contacts List</Link>
         
             </div>
         );
