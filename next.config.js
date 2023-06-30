@@ -2,15 +2,7 @@ const nextConfig = {
     // Customizing the build output directory
     distDir: 'build',
   
-    // Adding custom routes
-    async rewrites() {
-      return [
-        {
-          source: '/old-page',
-          destination: '/new-page',
-        },
-      ];
-    },
+    
   
     // Enabling TypeScript support
     typescript: {
