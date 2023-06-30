@@ -28,7 +28,7 @@ function Header() {
    
   
       <Button variant="light" onClick={handleShow} className="header_menu">
-      <img src='/menu-icon.png' style={{width:30}}></img>
+      <Image src='/menu-icon.png' style={{width:30}} alt="Menu_icon" />
       </Button>
 
       <Offcanvas show={show} onHide={handleClose}>

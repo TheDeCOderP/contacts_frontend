@@ -1,10 +1,11 @@
 import Carousel from 'react-bootstrap/Carousel';
+import Image from 'next/image';
 
 function AdsBar() {
   return (
     <Carousel className="d-flex justify-end">
       <Carousel.Item interval={2000}>
-        <img
+        <Image
           className="d-block w-100"
           src="/ads/ad1.png"
           alt="First slide"

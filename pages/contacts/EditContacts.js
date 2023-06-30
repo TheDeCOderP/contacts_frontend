@@ -4,9 +4,9 @@ import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
 
 const EditUser = ({ user, updateUser, onCancelEdit }) => {
-  const [name, setName] = useState(user.name);
-  const [email, setEmail] = useState(user.email);
-  const [mobile, setMobile] = useState(user.mobile);
+  const [name, setName] = useState(user?.name || '');
+  const [email, setEmail] = useState(user?.email || '');
+  const [mobile, setMobile] = useState(user?.mobile || '');
 
   const handleSubmit = (e) => {
     e.preventDefault();
