@@ -1,0 +1,271 @@
+
+
+
+* {
+   
+      font-family: 'Raleway';
+      
+  }
+
+
+  h1, h2 ,h3 , h4 , h5 , h6 {
+    font-family:'Poppins';
+  }
+
+.offcanvas.offcanvas-start.show {
+    width: 250px;
+    background: #1f1f1f;
+    display: flex;
+    flex-direction: column;
+  align-items: center;
+  }
+
+  .offcanvas-body a {
+    display: flex;
+    flex-direction: column;
+  align-items: center;
+    margin: 15px 0px;
+    text-decoration: none;
+    color: white;
+  }
+
+  .offcanvas-header {
+
+    flex-direction: column;
+}
+
+span.navbar-text {
+  color: white;
+}
+
+nav.header_navbar.navbar.navbar-expand.navbar-light {
+  padding: 20px 0px;
+  
+}
+
+header{
+  position:sticky;
+  top:0px;
+  z-index:10;
+
+}
+
+nav.bg-dark.text-light.footer.navbar.navbar-expand.navbar-light {
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  justify-content: center;
+ 
+  font-weight:600;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #fafafa;
+  font-weight: 700;
+  box-shadow: 5px 10px 10px 3px #06234e33;
+}
+
+
+
+.container.user_add_form {
+  padding: 30px;
+  max-width: 800px;
+  margin: 20px auto;
+  box-shadow: 0px 0px 10px 0px #eee;
+}
+
+.form-fields {
+  margin: 20px 0px;
+  font-weight: 600;
+}
+
+.form-control {
+  padding: 15px 10px!important;
+  font-size: 16px!important;
+  font-weight: 600!important;
+  border-radius: 20px!important;
+  box-shadow: 0px 5px 10px 0px #5c6fa7f0;
+  border: none!important;
+}
+
+button.mt-3.user_form_submit_button.btn.btn-success {
+  
+  padding: 10px 20px;
+  border-radius:30px;
+  background: #1f1f1f;
+  color: white;
+  font-weight: 600;
+  font-size: 15px;
+  border: 1px solid black;
+}
+
+button.mt-3.user_form_submit_button.btn.btn-success:hover {
+
+  background: white;
+  color: black;
+ 
+  border: 1px solid black;
+}
+
+
+
+.card-title.h5 {
+  text-transform: capitalize;
+  margin-bottom:10px;
+}
+
+.card-body p {
+  margin-bottom:10px;
+}
+
+.col-sm-12.col-md-6.col-lg-6.products_grid {
+  margin-bottom: 20px;
+}
+
+.container.success_message {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 30px;
+
+  background: #eee;
+}
+
+.col-sm-6.col-md-4.col-lg-4.products_grid {
+  margin: 10px 0px;
+}
+
+a {
+  text-decoration: none!important;
+}
+
+.card-body a {
+ 
+  margin-top: 10px;
+  color: green;
+}
+
+.col.home_top_bar {
+  display: flex;
+  align-content: center;
+  justify-content: space-between;
+  padding: 20px;
+  margin:20px 0px 50px 0px;
+  align-items: center;
+  background-color: #1f1f1f;;
+}
+.col.home_top_bar h2 {
+  margin:0px;
+  color:white;
+}
+
+a.add_contact_button.btn.btn-success {
+  padding: 10px;
+}
+.header_navbar{
+  background:#1f1f1f;
+}
+
+.products_card.card button {
+  color: white;
+  background: #1f1f1f;
+  margin: 0px 10px;
+  padding:5px 20px;
+  border-radius:10px;
+  
+}
+.products_card.card button:hover {
+  color: #011648;
+  background: #ffffff;
+ 
+  
+}
+
+.modal-body button {
+  margin: 20px 20px 0px 0px;
+}
+
+.modal-body label {
+  margin-top: 20px;
+}
+.edit_delete {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  background: #eee;
+  align-content: center;
+  align-items: center;
+  
+  padding: 19px;
+}
+
+.col-sm-12.col-lg-3.col-md-3.Ads_bar {
+  background: #fafafa;
+  padding:0px;
+  padding-left:30px;
+  padding-top:30px;
+  padding-bottom:30px;
+  border-left:1px solid #eee;
+  
+}
+
+.carousel-inner img {
+aspect-ratio:3/6;
+
+ 
+}
+
+
+a.carousel-control-prev, .carousel-control-next  , .carousel-indicators {
+  display: none!important;
+}
+
+.h3.text-light.header_text {
+
+  margin:0px;
+}
+
+.contact_search_form {
+  margin-bottom:20px;
+}
+
+.row.contact_search_form {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+section.home-section {
+  margin: 50px 0px;
+}
+
+.row.contact_search_form input {
+  margin: 10px 0px;
+}
+.row.contact_search_form button {
+  margin: 20px 0px;
+}
+
+section.home-section a {
+  margin-right: 20px;
+}
+section.home-section {
+  display:flex;
+  justify-content:center;
+}
+
+.offcanvas-body a {
+  font-family: Poppins;
+  padding: 8px 10px;
+  border: 1px solid #eee;
+  background: #fafafa;
+  color:black;
+  font-weight:600;
+}
+
+
