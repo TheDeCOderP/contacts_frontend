@@ -1,15 +1,16 @@
 {
   "/_app": "pages/_app.js",
-  "/add-contacts": "pages/add-contacts.js",
-  "/components/AdsBar": "pages/components/AdsBar.js",
-  "/components/Footer": "pages/components/Footer.js",
-  "/components/Layout": "pages/components/Layout.js",
-  "/components/Header": "pages/components/Header.js",
-  "/contacts": "pages/contacts.js",
-  "/contacts/AddContacts": "pages/contacts/AddContacts.js",
-  "/contacts/EditContacts": "pages/contacts/EditContacts.js",
-  "/contacts/ShowContacts": "pages/contacts/ShowContacts.js",
-  "/": "pages/index.js",
+  "/add-contacts": "pages/add-contacts.html",
+  "/components/AdsBar": "pages/components/AdsBar.html",
+  "/components/Footer": "pages/components/Footer.html",
+  "/components/Layout": "pages/components/Layout.html",
+  "/components/Header": "pages/components/Header.html",
+  "/contacts": "pages/contacts.html",
+  "/contacts/AddContacts": "pages/contacts/AddContacts.html",
+  "/contacts/EditContacts": "pages/contacts/EditContacts.html",
+  "/contacts/ShowContacts": "pages/contacts/ShowContacts.html",
+  "/": "pages/index.html",
   "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js"
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
 }

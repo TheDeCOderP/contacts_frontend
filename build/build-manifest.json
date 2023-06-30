@@ -1,0 +1,93 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-78c92fac7aa8fdd8.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/CBVZkhbF6R9jm3IDlzGio/_buildManifest.js",
+    "static/CBVZkhbF6R9jm3IDlzGio/_ssgManifest.js"
+  ],
+  "rootMainFiles": [],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-305cb810cde7afac.js",
+      "static/chunks/main-9e8f125ef8cc05ca.js",
+      "static/chunks/pages/index-26fba6acf3e6cb2d.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-305cb810cde7afac.js",
+      "static/chunks/main-9e8f125ef8cc05ca.js",
+      "static/css/01c9c4a5c682b2d8.css",
+      "static/chunks/pages/_app-3df0c5d82085f09d.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-305cb810cde7afac.js",
+      "static/chunks/main-9e8f125ef8cc05ca.js",
+      "static/chunks/pages/_error-54de1933a164a1ff.js"
+    ],
+    "/add-contacts": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-305cb810cde7afac.js",
+      "static/chunks/main-9e8f125ef8cc05ca.js",
+      "static/chunks/983-84f080faa45ded00.js",
+      "static/chunks/pages/add-contacts-e8d4ba5275035245.js"
+    ],
+    "/components/AdsBar": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-305cb810cde7afac.js",
+      "static/chunks/main-9e8f125ef8cc05ca.js",
+      "static/chunks/pages/components/AdsBar-83ade471eee2fa6a.js"
+    ],
+    "/components/Footer": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-305cb810cde7afac.js",
+      "static/chunks/main-9e8f125ef8cc05ca.js",
+      "static/chunks/pages/components/Footer-b3b81a33e1e0079c.js"
+    ],
+    "/components/Header": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-305cb810cde7afac.js",
+      "static/chunks/main-9e8f125ef8cc05ca.js",
+      "static/chunks/pages/components/Header-40fd93f298a60eb3.js"
+    ],
+    "/components/Layout": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-305cb810cde7afac.js",
+      "static/chunks/main-9e8f125ef8cc05ca.js",
+      "static/chunks/pages/components/Layout-b00a1172ec639a2e.js"
+    ],
+    "/contacts": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-305cb810cde7afac.js",
+      "static/chunks/main-9e8f125ef8cc05ca.js",
+      "static/chunks/590-74dcc9ce120894a2.js",
+      "static/chunks/pages/contacts-0c4ea4086180a6d4.js"
+    ],
+    "/contacts/AddContacts": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-305cb810cde7afac.js",
+      "static/chunks/main-9e8f125ef8cc05ca.js",
+      "static/chunks/983-84f080faa45ded00.js",
+      "static/chunks/pages/contacts/AddContacts-fef53d69bf13a439.js"
+    ],
+    "/contacts/EditContacts": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-305cb810cde7afac.js",
+      "static/chunks/main-9e8f125ef8cc05ca.js",
+      "static/chunks/590-74dcc9ce120894a2.js",
+      "static/chunks/pages/contacts/EditContacts-441a509e83bc15d0.js"
+    ],
+    "/contacts/ShowContacts": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-305cb810cde7afac.js",
+      "static/chunks/main-9e8f125ef8cc05ca.js",
+      "static/chunks/590-74dcc9ce120894a2.js",
+      "static/chunks/pages/contacts/ShowContacts-e6fe167199fa5f4a.js"
+    ]
+  },
+  "ampFirstPages": []
+}
