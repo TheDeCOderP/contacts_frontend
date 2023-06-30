@@ -28,12 +28,12 @@ function Header() {
    
   
       <Button variant="light" onClick={handleShow} className="header_menu">
-      <Image src='/menu-icon.png' style={{width:30}} alt="Menu_icon" />
+      <Image src='/menu-icon.png' width={30} height={30} alt="Menu_icon" />
       </Button>
 
       <Offcanvas show={show} onHide={handleClose}>
         <Offcanvas.Header>
-          <Offcanvas.Title> <Link href="/" onClick={handleClose}><Image src="/prabisha-logo.png" width={150} height={70}></Image></Link></Offcanvas.Title>
+          <Offcanvas.Title> <Link href="/" onClick={handleClose}><Image src="/prabisha-logo.png" width={150} height={70} alt="logo"></Image></Link></Offcanvas.Title>
         </Offcanvas.Header>
         <Offcanvas.Body>
         <Link href="/" onClick={handleClose} >Home</Link>

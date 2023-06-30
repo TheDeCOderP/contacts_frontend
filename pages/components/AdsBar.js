@@ -9,14 +9,18 @@ function AdsBar() {
           className="d-block w-100"
           src="/ads/ad1.png"
           alt="First slide"
+          width={300}
+          height={500}
         />
         
       </Carousel.Item>
       <Carousel.Item interval={2000}>
-        <img
+        <Image
           className="d-block w-100"
           src="/ads/ad2.png"
           alt="First slide"
+          width={300}
+          height={500}
         />
         
       </Carousel.Item>
